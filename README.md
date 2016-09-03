@@ -60,6 +60,13 @@ database sizes over 3 terabytes.
 * [Repository](https://github.com/vinniefalco/Beast)
 * [Documentation](http://vinniefalco.github.io/nudb/)
 
+## Peformance
+
+NuDB out-performs the next best key/value database:
+
+<img width="880" height = "280" alt = "NuDB"
+    src="https://raw.githubusercontent.com/vinniefalco/NuDB/b5/doc/images/bench.png">
+
 ## Requirements
 
 * Boost 1.58 or higher
